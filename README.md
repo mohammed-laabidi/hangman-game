@@ -1,7 +1,7 @@
 # Hangman
 
 ## Live Demo
-Visit Website: https://elamed2007.github.io/hangman-game/
+Visit Website: https://mohammed-laabidi.github.io/hangman-game/
 
 ## Technologies
 - HTML5
